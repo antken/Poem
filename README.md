@@ -1,12 +1,12 @@
 # Poem
               Acrostic Poem
-     Aesthetical
-     Noble
-     Talented 
-     Outstanding
-     Nice
-     INTOVERT
-     Obedient 
+     A esthetical
+     N oble
+     T alented 
+     O utstanding
+     N ice
+     I ntrovert
+     O bedient 
 
 # Poem 2
 Sky High
